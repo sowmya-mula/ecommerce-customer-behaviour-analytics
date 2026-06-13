@@ -1,3 +1,35 @@
+/*===============================================================================
+SILVER LAYER – DATA QUALITY & VALIDATION CHECKS
+===============================================
+
+Project      : E-Commerce Customer Behaviour Analytics
+Layer        : Silver
+Purpose      : Validate cleaned datasets before loading into analytical models.
+
+Validation Areas:
+✓ Structure Checks
+✓ Null Checks
+✓ Primary Key Validation
+✓ Foreign Key Validation
+✓ Duplicate Checks
+✓ Business Rule Validation
+✓ Referential Integrity Checks
+✓ Data Validation Checks
+
+Tables Covered:
+├── silver.users
+├── silver.orders
+├── silver.order_items
+├── silver.products
+├── silver.reviews
+└── silver.events
+
+Expected Outcome:
+→ Clean, consistent, and analytics-ready datasets
+
+=================================================================================*/
+
+
 --STRUCTURE CHECKS
 --NULL CHECKS
 --primary key
