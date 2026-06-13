@@ -14,7 +14,6 @@ Transforming raw e-commerce data into business insights using SQL, data warehous
 | Data Modeling       | Star Schema                 |
 | Visualization       | Power BI                    |
 | Analytics           | DAX                         |
-| Documentation       | Draw.io                     |
 | Version Control     | GitHub                      |
 | Markup              | Markdown                    |
 
@@ -105,10 +104,10 @@ Power BI Dashboard
 
 # 🖼️ Dashboard Preview
 
-Upload your dashboard screenshot into `/docs`
 
-![Dashboard Preview](---<img width="515" height="567" alt="Screenshot 2026-06-13 194618" src="https://github.com/user-attachments/assets/a7d57ce8-023e-4260-9a42-777decf9b3e9" />
-)
+<img width="462" height="756" alt="Screenshot 2026-06-13 194636" src="https://github.com/user-attachments/assets/0ddea9df-ff52-4ebc-8ae9-85242def0fbc" />
+
+
 
 ---
 
