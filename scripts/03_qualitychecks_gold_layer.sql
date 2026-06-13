@@ -1,3 +1,20 @@
+/*=========================================================
+GOLD LAYER – QUALITY CHECKS
+===========================
+
+Purpose:
+Validate Gold layer tables before reporting and dashboarding.
+
+Checks Included:
+
+* Null Checks
+* Referential Integrity
+* Business Validation
+* Duplicate Checks
+
+=========================================================*/
+
+
 --Null checks (Gold layer)
 --Orders
 SELECT *
