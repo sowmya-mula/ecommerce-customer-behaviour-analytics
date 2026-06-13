@@ -32,100 +32,23 @@ From ingestion to reporting, the project follows a structured modern analytics a
 # 🏗️ Architecture
 
 Raw Data (Bronze)
+
 ↓
+
 Clean & Transform (Silver)
+
 ↓
+
 Business Model (Gold)
+
 ↓
+
 Power BI Dashboard
 
 ---
 
 # 🧩 Repository Structure
 
-📁 datasets/
-→ Power BI Dashboard (.pbix)
-
-📁 docs/
-→ Dashboard screenshots & project assets
-
-📁 scripts/
-→ SQL scripts for ETL, transformations, and quality checks
-
-📄 README.md
-→ Project documentation
-
----
-
-# ⚙️ Technologies Used
-
-### Data Engineering
-
-* SQL Server
-* SQL (T-SQL)
-* SSMS
-
-### Analytics & Visualization
-
-* Power BI
-* DAX
-
-### Documentation & Design
-
-* Draw.io
-* GitHub
-* Markdown
-
----
-
-# 📈 Dashboard Features
-
-✅ Revenue Analysis
-✅ Customer Insights
-✅ Product Performance
-✅ Customer Ratings Analysis
-✅ User Behaviour Tracking
-✅ Interactive Filtering Experience
-✅ KPI Monitoring
-
----
-
-# 📊 Key Performance Indicators (KPIs)
-
-* Total Revenue
-* Total Orders
-* Total Customers
-* Average Order Value (AOV)
-* Average Rating
-* Total Events
-* Revenue Per Customer
-
----
-
-# 🖼️ Dashboard Preview
-
-
-<img width="462" height="756" alt="Screenshot 2026-06-13 194636" src="https://github.com/user-attachments/assets/0ddea9df-ff52-4ebc-8ae9-85242def0fbc" />
-
-
-
----
-
-# 🔍 Key Insights
-
-📌 Revenue trends reveal business performance patterns.
-
-📌 Product contribution is uneven across categories.
-
-📌 Customer ratings provide satisfaction indicators.
-
-📌 User behaviour highlights customer engagement.
-
-📌 Interactive exploration enables business decision-making.
-
----
-
----
 
 ```
 ecommerce-customer-behaviour-dwh/
@@ -174,6 +97,83 @@ ecommerce-customer-behaviour-dwh/
 └── 📄 requirements.txt (optional)
 
 ```
+---
+
+# ⚙️ Technologies Used
+
+### Data Engineering
+
+* SQL Server
+* SQL (T-SQL)
+* SSMS
+
+### Analytics & Visualization
+
+* Power BI
+* DAX
+
+### Documentation & Design
+
+* Draw.io
+* GitHub
+* Markdown
+
+---
+
+# 📈 Dashboard Features
+
+✅ Revenue Analysis
+
+✅ Customer Insights
+
+✅ Product Performance
+
+✅ Customer Ratings Analysis
+
+
+✅ User Behaviour Tracking
+
+✅ Interactive Filtering Experience
+
+✅ KPI Monitoring
+
+---
+
+# 📊 Key Performance Indicators (KPIs)
+
+* Total Revenue
+* Total Orders
+* Total Customers
+* Average Order Value (AOV)
+* Average Rating
+* Total Events
+* Revenue Per Customer
+
+---
+
+# 🖼️ Dashboard Preview
+
+
+<img width="462" height="756" alt="Screenshot 2026-06-13 194636" src="https://github.com/user-attachments/assets/0ddea9df-ff52-4ebc-8ae9-85242def0fbc" />
+
+
+
+---
+
+# 🔍 Key Insights
+
+📌 Revenue trends reveal business performance patterns.
+
+📌 Product contribution is uneven across categories.
+
+📌 Customer ratings provide satisfaction indicators.
+
+📌 User behaviour highlights customer engagement.
+
+📌 Interactive exploration enables business decision-making.
+
+---
+
 ---
 
 # 🎯 Project Outcome
