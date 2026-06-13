@@ -192,11 +192,15 @@ This project demonstrates practical experience in transforming raw data into bus
 
 # 👩‍💻 About Me
 
-Hi, I'm a data enthusiast passionate about building projects in:
+Hi, I'm **SOWMYA** 
+a data enthusiast , passionate about building projects in:
 
 📊 Data Analytics
+
 🗄️ SQL & Data Warehousing
+
 📈 Business Intelligence
+
 🐍 Python for Data Analysis
 
 I enjoy transforming raw data into meaningful insights and creating end-to-end analytics solutions that combine data engineering, reporting, and business analysis.
