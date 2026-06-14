@@ -54,12 +54,12 @@ Power BI Dashboard
 ecommerce-customer-behaviour-dwh/
 │
 ├── 📂 datasets/                     # Raw source data (immutable)
-│   ├── dataset_1.csv
-│   ├── dataset_2.csv
-│   ├── dataset_3.csv
-│   ├── dataset_4.csv
-│   ├── dataset_5.csv
-│   └── dataset_6.csv
+│   ├── events.csv
+│   ├── orders.csv
+│   ├── order_items.csv
+│   ├── products.csv
+│   ├── reviews.csv
+│   └── users.csv
 │
 ├── 📂 sql/
 │   ├── 📂 bronze/                   # Raw ingestion layer
