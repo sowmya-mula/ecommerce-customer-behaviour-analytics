@@ -79,8 +79,8 @@ ecommerce-customer-behaviour-dwh/
 │       └── product_analysis.png
 │
 ├── 📂 docs/
-│   ├── architecture.png
-│   ├── data_dictionary.md
+│
+|   ├── data_dictionary.md
 │   ├── KPI_definition.md
 │   └── project_report.pdf
 │
